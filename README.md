@@ -1,34 +1,21 @@
-#Encryption and Decryption of text 
+<h1 align="center">Hi 👋, I'm Vrushabh Patil</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrushabhpatil&label=Profile%20views&color=0e75b6&style=flat" alt="vrushabhpatil" /> </p>
 
-def caesar_cipher(text,shift,mode='encrypt'):
-    result = ""
+<h3 align="left">Connect with me:</h3>
 
-    if mode == 'decrypt':
-        shift = -shift
+<img align="right" alt="coding" width="400" src="https://user
+https://in.images.search.yahoo.com/search/images?p=animated+coding+gif&fr=mcafee&type=E210IN826G0&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%
 
-        for char in text:
-            if char.isalpha():
-                shift_amount = 65 if char.isupper() else 97
-                result += chr ((ord(char) - shift_amount + shift) % 26 + shift_amount)
-            else:
-                result += char
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vrushabh-patil-306515330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vrushabh-patil-306515330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+</p>
 
-     return result 
-print()
-print("****CAESAR CIPHER PROGRAM***")
-print()
- 
-def main():
-    text = input("Enter the text: ")
-    shift = int(input("Enter the shift amount :"))
-    mode = input("Do you want to decrypt? ").strip().lower()
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-    if mode not in ['encrypt', 'decrypt']:
-        print("Invalid mode. Please enter 'encrypt' or 'decrypt'.")
-        return
-    
-    result = caesar_cipher(text,shift,mode)
-    printf(f"The result is : {result}")
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrushabhpatil&show_icons=true&locale=en&layout=compact" alt="vrushabhpatil" /></p>
 
-    if __name__ == "__main___":
-        main()                   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrushabhpatil&show_icons=true&locale=en" alt="vrushabhpatil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrushabhpatil&" alt="vrushabhpatil" /></p>
+
