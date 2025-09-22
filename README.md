@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vrushabh Patil</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrushabhpatil&label=Profile%20views&color=0e75b6&style=flat" alt="vrushabhpatil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrushabhpatil&label=Profile%20views&color=0e75b6&style=flat> alt="vrushabhpatil" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
